@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/peter/Downloads/r/scala99/src/main/scala/P3.scala:3:44: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Nil[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def reverse[T](list: List[T]): List[T] = list match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
