@@ -1,27 +1,42 @@
 [0m[[0m[0mdebug[0m] [0m[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
 [0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/home/peter/Downloads/r/scala99/src/main/scala/P7.scala)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/home/peter/Downloads/r/scala99/target/scala-2.12/classes/Main.class, /home/peter/Downloads/r/scala99/target/scala-2.12/classes/P4.class, /home/peter/Downloads/r/scala99/target/scala-2.12/classes/P2.class, /home/peter/Downloads/r/scala99/target/scala-2.12/classes/P1$.class, /home/peter/Downloads/r/scala99/target/scala-2.12/classes/P1.class, /home/peter/Downloads/r/scala99/target/scala-2.12/classes/P3.class, /home/peter/Downloads/r/scala99/target/scala-2.12/classes/P2$.class, /home/peter/Downloads/r/scala99/target/scala-2.12/classes/P5.class, /home/peter/Downloads/r/scala99/target/scala-2.12/classes/P6.class, /home/peter/Downloads/r/scala99/target/scala-2.12/classes/Main$delayedInit$body.class, /home/peter/Downloads/r/scala99/target/scala-2.12/classes/Main$.class, /home/peter/Downloads/r/scala99/target/scala-2.12/classes/P4$.class, /home/peter/Downloads/r/scala99/target/scala-2.12/classes/P3$.class, /home/peter/Downloads/r/scala99/target/scala-2.12/classes/P5$.class, /home/peter/Downloads/r/scala99/target/scala-2.12/classes/P6$.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/home/peter/Downloads/r/scala99/src/main/scala/Main.scala, /home/peter/Downloads/r/scala99/src/main/scala/P6.scala, /home/peter/Downloads/r/scala99/src/main/scala/P3.scala, /home/peter/Downloads/r/scala99/src/main/scala/P2.scala, /home/peter/Downloads/r/scala99/src/main/scala/P4.scala, /home/peter/Downloads/r/scala99/src/main/scala/P1.scala, /home/peter/Downloads/r/scala99/src/main/scala/P5.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
-[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 7 sources: invalidated sources (7) exceeded 50.0% of all sources[0m
-[0m[[0m[0minfo[0m] [0m[0mCompiling 7 Scala sources to /home/peter/Downloads/r/scala99/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/peter/Downloads/r/scala99/src/main/scala/P7.scala)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /home/peter/Downloads/r/scala99/target/scala-2.12/classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.5:compile for Scala 2.12.5[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.5:compile for Scala 2.12.5[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler a89baff for Scala compiler version 2.12.5[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 599db4e0 for Scala compiler version 2.12.5[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/java-8-openjdk/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk/jre/classes:/home/peter/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.5.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/home/peter/Downloads/r/scala99/target/scala-2.12/classes[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 4.087178232 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 3.280263785 s[0m
 [0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from P7...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(P7)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(P7)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(P7,ModifiedNames(changes = UsedName(eq,[Default]), UsedName(ne,[Default]), UsedName($asInstanceOf,[Default]), UsedName(getClass,[Default]), UsedName(hashCode,[Default]), UsedName(!=,[Default]), UsedName(notifyAll,[Default]), UsedName(isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName(wait,[Default]), UsedName(P7,[Default]), UsedName(equals,[Default]), UsedName(notify,[Default]), UsedName(flatten,[Default]), UsedName(synchronized,[Default]), UsedName(##,[Default]), UsedName(asInstanceOf,[Default]), UsedName(clone,[Default]), UsedName($isInstanceOf,[Default]))) invalidates 1 classes due to The P7 has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(eq,[Default]), UsedName(ne,[Default]), UsedName($asInstanceOf,[Default]), UsedName(getClass,[Default]), UsedName(hashCode,[Default]), UsedName(!=,[Default]), UsedName(notifyAll,[Default]), UsedName(isInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(==,[Default]), UsedName(toString,[Default]), UsedName(wait,[Default]), UsedName(P7,[Default]), UsedName(equals,[Default]), UsedName(notify,[Default]), UsedName(flatten,[Default]), UsedName(synchronized,[Default]), UsedName(##,[Default]), UsedName(asInstanceOf,[Default]), UsedName(clone,[Default]), UsedName($isInstanceOf,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(P7)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m
